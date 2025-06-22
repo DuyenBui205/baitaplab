@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Lap04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4538605B-0426-0DD7-5ED4-DB619610E0E4}|Assembly-CSharp.csproj|c:\\users\\asus\\lap04\\assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4538605B-0426-0DD7-5ED4-DB619610E0E4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4538605B-0426-0DD7-5ED4-DB619610E0E4}|Assembly-CSharp.csproj|c:\\users\\asus\\lap04\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4538605B-0426-0DD7-5ED4-DB619610E0E4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4538605B-0426-0DD7-5ED4-DB619610E0E4}|Assembly-CSharp.csproj|c:\\users\\asus\\lap04\\assets\\scripts\\backgroundmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4538605B-0426-0DD7-5ED4-DB619610E0E4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundmusic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Lap04\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Lap04\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wDIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:33:19.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Lap04\\Assets\\Scripts\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Lap04\\Assets\\Scripts\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoundManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T00:32:38.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BackgroundMusic.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Lap04\\Assets\\Scripts\\BackgroundMusic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundMusic.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Lap04\\Assets\\Scripts\\BackgroundMusic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackgroundMusic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T03:30:11.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+# =============== #
+# Unity .gitignore #
+# =============== #
+
+# Thư mục hệ thống Unity (rất nặng, không nên push)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# VS, Rider, MonoDevelop
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
+
+# Android/iOS
+*.apk
+*.aab
+
+# Unity crash, analytics, etc
+*.stacktrace
+*.report
+*.log
